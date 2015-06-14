@@ -25,6 +25,7 @@ Installation
 
 Then edit your rc.lua
 
+    $ cp /etc/xdg/awesome/rc.lua ~/.config/awesome
     $ $EDITOR ~/.config/awesome/rc.lua
 
 to have the line starting with `beautiful.init` look like this:
